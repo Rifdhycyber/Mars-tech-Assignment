@@ -30,7 +30,6 @@ p {
 .box > p{
   color: yellow;
   margin: 10px;
-  text-align: end;
 }
 p.white-text{
   color: white;
